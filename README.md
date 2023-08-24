@@ -3,8 +3,7 @@
 # 目录
 
 - 基础
-  - [Lesson. 1](## Lesson 1 - Bash)
-  - [Lesson. 2](## Lesson 2 - Python and Jupyter)
+- [LSTM](LSTM)
 
 ## Lesson 1 - Bash
 
